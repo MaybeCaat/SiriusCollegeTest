@@ -1,1 +1,2 @@
 another text for commit in git
+new text for test commits
